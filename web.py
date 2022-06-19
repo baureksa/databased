@@ -2,6 +2,8 @@ import sys
 import subprocess
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
 'gspread'])
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
+'oauth2client'])
 
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
