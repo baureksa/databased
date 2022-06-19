@@ -14,7 +14,7 @@ import gspread
 from pandas import Categorical
 import pandas as pd
 
-gc = gspread.service_account(filename=r'D:\Latsar\aktualisasi\project\tugas-latsar-9e9e659bd6d2.json')
+gc = gspread.service_account(filename=r'./tugas-latsar-9e9e659bd6d2.json')
 
 sh = gc.open("latsar")
 worksheet = sh.get_worksheet(0)
