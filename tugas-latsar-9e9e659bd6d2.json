@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tugas-latsar",
+  "private_key_id": "9e9e659bd6d2f32299f5c58496e78afe661979aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1hDyDFxLEAeun\n8fozJeS2sLG17UOcymH2/3kO9M6nPryXAEtPudpvwYXC0u1PPoO4V+NiYaYP0qie\nnflHfN/ZFqtabgFr3lWRr/VbHT6yr+3qXn6an6PwdfSOiPyvlOH+0ZGUiVq1hMqh\nml1WVZNQzMML7F794+zksHBUkzwcEaaLP1wO67VKEBxqnFIpwr3oTr0qlJTYvspC\nay/P04YBSfJJT7ljRQzsMN5+t1yeF8l1VExiqj0t/avkhlfJC3AyXdpZniQ6eXmR\nazxDhbDgRsiHYv0lVhwNUWnQ740zlPktHDRpeVEmLKRpBjfyOtv8Rc6KpjKiWYU+\nqXC7wDWZAgMBAAECggEAC+/HAfDjv0eIDXqMc04f4QK0IQxaCKbHc/R/a8QeDeIC\niWSPz02fx38gsnvn9rDb/SSsc5UL1FkMVSf602BrIQ3MVW1MAyGzG1pIpoYBEEOg\n/+tYZIcwgvjizPfFtC80gGscKXox4KN7ps5tqmaEwkjA39kasxQIyU4wCOPIzWig\nWM6xoLYbweuEPNXHotBBjaB0GJrDhYSJ9ELkWJTrVdNJBuq2GxjvSDTXt1Yc8OQ8\n8sOvYiWUNSbhiRJ70NpUJwSUXPuLmuSMYyXrdQTI7BkP1mslEiWtFgWJ8jx0FQfN\nmY320T9Y9PiRl9yi8FQyn/727Zo/3oglprfoIdBcoQKBgQDjMfM4lO/1vFUI0hXP\nm2ikFzTLkigYFubF6OJvrlcY/cYtuz9H9B+Ce9hTxm/NY7cYzT18j7OpsFf4Ix3Z\n8fIbUaoDSLzqPVq2F/2Y1pzh+43m+LuKUr97sMZFWcInEz0TTg/oz2GNhAfLS9hi\nhg0rPVDceGWlZJD/pjD+9MbKqQKBgQDMh7OO5H0frSMfGTrSLS39QJSMHx8+pwVi\ntDe8s7asM3VXofbH5wslAS+TP3wJtgIxoQ6e42eIxSy4+Hxh5vNBdoaVjwWDzBOB\nZRDCijlQVVxasLTQb1DkPoJiAK4OQnIlJBUFGJ7MZA3qcrduZR3ZIGXEE6MzyGSG\njdHOWqxZcQKBgQDGZ4iPkQE9CAr6ePyzIHRxWBKy9CAvaVB+5LFZ9lX5bST0KuFI\nZNhfiuePwWtBYiMzdYiMjrHHLkikWYZoHfHgCaD+3TadGJdvDeRY5JJ8hsGVQwID\n+d9elTGQvqHend5oTXN3TCNVAkgMMV/2Kjq12AYVgs7BcOFvYCLJg9lWgQKBgDj4\nh7SCwrOjF4hfD7phqVDEv1v0g1CBV4ex6WCfsn9u6f2Z+NKf8cPB+82JPnS6BQxr\n71WkxD8dpSJ03Lisiw+uAzj/mKqomrpNO4jk1aghztLYK9VvXFnna4v+4nzIV2Ev\nFsfPntQR/qpSf/O5KMJFOvOOAMS4yf+M22cebKmRAoGBANLfdM6fbWZiui3f4xIw\nNVtx+YKF6nwTADaQZCnzxdSt7FZhlRNZeR80QtB0vK6LjjKpp5MJBR2Lr/X2TZcR\nWn8j1zKKVrmyHf54T7io9u6PAs84LjPuX3aNBDqas4t8kUsTKmCQO2c6EgLMauqO\n7WSowtAPP1+fvm9vdWe4hmPG\n-----END PRIVATE KEY-----\n",
+  "client_email": "apet-69@tugas-latsar.iam.gserviceaccount.com",
+  "client_id": "107089361579537757380",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apet-69%40tugas-latsar.iam.gserviceaccount.com"
+}
