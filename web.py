@@ -52,8 +52,8 @@ def tombolcari(carinomor):
     else:
         hasil = worksheet.row_values(cell.row)
         df = pd.DataFrame([ keterangan,hasil])
-        keterangan1 = [keterangan[21:23],keterangan[24;34]]
-        hasil1 = [hasil[3:5],hasil[6:16]]
+        keterangan1 = keterangan[21:23]+keterangan[24;34]
+        hasil1 = hasil[3:5]+hasil[6:16]
         df1 = pd.DataFrame([keterangan1,hasil1])
         st.table(df[[0,1,2]].T)
 
