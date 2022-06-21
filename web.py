@@ -24,7 +24,8 @@ worksheet = sh.get_worksheet(0)
 st.set_page_config(page_title="Cek Permohonan Anda", page_icon=":tada:", layout="wide")
 
 #header
-st.subheader("INPUT NOMOR PELAYANAN ANDA")
+st.header("INPUT NOMOR PELAYANAN ANDA")
+st.subheader("Catatan: Nomor pelayanan yang tersedia mulai dari no. S-22.0600")
 
 
 # CSS to inject contained in a string
@@ -63,7 +64,7 @@ def tombolcari(carinomor):
 
 
 inputnomor0 ='S-22.'
-inputnomor = st.text_input('CATATAN: Nomor pelayanan yang tersedia mulai dari No. S-22.0600',value="S-22.",max_chars=9)
+inputnomor = st.text_input('Contoh: S-22.0600',value="S-22.",max_chars=9)
 button = st.button('Cari')
 
 
