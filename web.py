@@ -63,7 +63,7 @@ def tombolcari(carinomor):
 
 
 inputnomor0 ='S-22.'
-inputnomor = st.text_input('Contoh: S-22.0001',value="S-22.",max_chars=9)
+inputnomor = st.text_input('CATATAN: Nomor pelayanan yang tersedia mulai dari No. S-22.0600',value="S-22.",max_chars=9)
 button = st.button('Cari')
 
 
