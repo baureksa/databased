@@ -24,8 +24,8 @@ worksheet = sh.get_worksheet(0)
 st.set_page_config(page_title="Cek Permohonan Anda", page_icon=":tada:", layout="wide")
 
 #header
-st.header("INPUT NOMOR PELAYANAN ANDA")
-st.subheader("Catatan: Nomor pelayanan yang tersedia mulai dari no. S-22.0600")
+st.subheader("INPUT NOMOR PELAYANAN ANDA")
+st.caption("Catatan: Nomor pelayanan yang tersedia mulai dari no. S-22.0600")
 
 
 # CSS to inject contained in a string
