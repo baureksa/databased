@@ -29,13 +29,13 @@ st.caption("Catatan: Nomor pelayanan yang tersedia mulai dari no. S-22.0600")
 
 
 # CSS to inject contained in a string
-# hide_table_row_index = """
-#             <style>
-#             thead, th {display: none;}
-#             .blank {display:none}
-#             thead, th, td  {width: 100px}
-#             </style>
-#             """
+hide_table_row_index = """
+            <style>
+            thead, th {display: none;}
+            .blank {display:none}
+            thead, th, td  {width: 100px}
+            </style>
+            """
 
 # Inject CSS with Markdown
 st.markdown(hide_table_row_index, unsafe_allow_html=True)
