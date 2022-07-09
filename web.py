@@ -56,7 +56,7 @@ def tombolcari(carinomor):
         keterangan1 = keterangan[21:23]+keterangan[24:34]
         hasil1 = hasil[3:5]+hasil[6:16]
         angka =[1,2,3,4,5,6,7,8,9,10,11,12]
-        df1 = pd.DataFrame([angka,keterangan1,hasil1])
+        df1 = pd.DataFrame([keterangan1,hasil1])
         st.table(df[[0,1,2]].T)
 
         st.write("---")
